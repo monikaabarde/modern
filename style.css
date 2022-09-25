@@ -50,11 +50,11 @@ html,body{
     height: 190px;
     z-index: 99;
     font-weight: 300;
-    font-size: 55px;
+    font-size: 3.5vw;
     display: flex;
     align-items: center;
     justify-content: flex-start;
-    bottom: -15%;
+    bottom: -5%;
     left: 0;
     transform-origin: left top;
     text-transform: uppercase;
